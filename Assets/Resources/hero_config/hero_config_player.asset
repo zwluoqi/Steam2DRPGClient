@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a92059e947ee9144d86f7ad5beb0d6f2, type: 3}
+  m_Name: hero_config_player
+  m_EditorClassIdentifier: 
+  heroName: "\u73A9\u5BB6"
+  heroUri: hero/47
+  color: {r: 1, g: 1, b: 1, a: 1}
+  skillGroupConfigs:
+  - {fileID: 11400000, guid: c39b6a24283d74636947bab9843e885a, type: 2}
+  - {fileID: 11400000, guid: 915442b9e14c248b8bf66ab369ff7bf9, type: 2}
+  - {fileID: 11400000, guid: f1c92bc3521494c0fa48bff1bf776c29, type: 2}
+  - {fileID: 11400000, guid: 78c20c8764888461a9275c35e698557d, type: 2}
+  - {fileID: 11400000, guid: 10af98692a4e94035a50ce74934919e2, type: 2}
+  heroAttributeConfig:
+    maxHP: 1000
+    maxMp: 100
+    maxAngle: 100
+    maxNaili: 100
+    curSpeed: 5
+    attributes: []
+  heroBehaviourConfigs: []

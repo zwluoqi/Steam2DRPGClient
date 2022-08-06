@@ -1,0 +1,19 @@
+八个方向的动画后缀分别为
+向上：t
+向下：d
+向左：l
+向右：r
+左上：lt
+左下：ld
+右上：rt
+右下：rd
+
+
+动画角色自动生成流程：
+1.Res/Hero/目录添加英雄目录，如47,并建立子目录sprites,
+2.在英雄目录Res/Hero/47/sprites 中添加动作子目录，如attack，walk等
+3.在动作子目录中放入各个方向的子目录，如attack_t,attak_rd等
+4.右键选中英雄目录，如Res/Hero/47/，选择"生成英雄"
+    在Res/Hero/47/anims目录中自动创建动画文件
+    在Res/Hero/47/sprites目录中自动创建图集文件
+    在Resources/Hero/中自动创建角色prefab ,47.prefab

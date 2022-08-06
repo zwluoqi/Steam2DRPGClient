@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15b553e0e02498f940a905377b170af, type: 3}
+  m_Name: player_skill_config_1_4
+  m_EditorClassIdentifier: 
+  animName: attack2
+  skillEffectConfig:
+    duration: 0
+    uri: 
+  skillType: 0
+  duration: 0.5
+  insertStartTime: 0.4
+  insertEndTime: 0
+  couldMove: 0
+  skillProjectorConfigs:
+  - projectorTime: 0
+    projectorDuration: 0.4
+    projectorEffectConfig:
+      duration: 0
+      uri: skill/skill_near_atk3
+    collideEffectConfig:
+      duration: 0
+      uri: 
+    initOffsetBaseSource: 1
+    initOffsetLengthOrRadius: 0.3
+    initOffsetAngle: 0
+    projectorMoveConfigs: []
+    followHero: 1
+    followHeroRotation: 0
+    collideType: 1
+    timeOverType: 0
+  skillMoveConfigs:
+  - moveTime: 0
+    duration: 0.1
+    moveSpeed: 2
+    avtiveMove: 1
+    traversal: 0
+  searchRadius: 6
+  coolDown: 1.8
+  spaceHitTimer: 0
+  desc: "\u666E\u901A\u653B\u51FB"

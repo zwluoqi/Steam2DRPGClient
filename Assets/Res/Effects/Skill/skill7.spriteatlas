@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: skill7
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dd6525df9afad27489218a2a75bebe44, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 470d117096fa05c45be328b8a4929815, type: 3}
+  - {fileID: 21300000, guid: bbce04734f0d53b47a76f95b532bc414, type: 3}
+  - {fileID: 21300000, guid: de3a0393a2cc6fb43bd08cdc3b4f2dc9, type: 3}
+  - {fileID: 21300000, guid: 935d31a4c294ea74589cef7edd5906a5, type: 3}
+  - {fileID: 21300000, guid: db24a7d88345cef4793c2e3192f04dbd, type: 3}
+  - {fileID: 21300000, guid: 5d1afe0bc06c2f54787b61324327cbfa, type: 3}
+  - {fileID: 21300000, guid: 7be137fb7564e71409642eb3bde55987, type: 3}
+  - {fileID: 21300000, guid: c1deb5bf5225bc2438e040ef1a320ace, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - WindSlash_6
+  - WindSlash_0
+  - WindSlash_3
+  - WindSlash_7
+  - WindSlash_5
+  - WindSlash_2
+  - WindSlash_4
+  - WindSlash_1
+  m_Tag: skill7
+  m_IsVariant: 0

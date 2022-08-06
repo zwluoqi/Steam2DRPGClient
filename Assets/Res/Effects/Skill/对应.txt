@@ -1,0 +1,35 @@
+1.普通近战：特效碰撞后不消失，hitbox覆盖范围均受击
+WindSlashlarge
+
+2.普通远程：特效有移动轨迹，碰撞后消失
+Fireball
+
+
+3.连击：连点后，每次出招不同，循环播放。连击后积攒神力速度翻倍。
+WindSlashlarge ----wind WindSlashLargeAlt
+
+4.持续攻击：比如一个冲击波特效能造成多hit。
+ChaosCircle
+
+5.蓄力攻击：hold按键，蓄力能增强 效果，放开按键生效。
+FireSwirl蓄力
+不同时间可以打出不同大小的Fireball
+
+6。连续攻击：hold按键，不停打出特定特效，例如机枪。
+fireball
+
+7.持续效果：光环
+FireSwirl
+
+8.物品：不打断任何行动的技能
+随意
+
+9.格挡：不按方向的同时按行动键---形成无敌罩10帧，1-2帧时判定为完美格挡，效果更强（详细见系统文档）
+LightningFistAttackLarge0
+
+10.闪避dash: 按方向键的同时按一下行动键--朝方向迅速移动
+     飞行fly:按方向键的同时按住行动键--闪避后继续保持动作移动，并可以通过方向键改变角速度。
+FireWings
+
+11.终结技：近战，吸收对方能量
+VoidShiftOpen

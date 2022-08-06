@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 47_attack1_t
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: d5932cfcc309e4e8598d4d8fdcd87d8d, type: 3}
+    - {fileID: 21300000, guid: b20cb1edf6c574a7488e66139e65eb39, type: 3}
+    - {fileID: 21300000, guid: da943cf85080c4de3a3e59dee2abd93a, type: 3}
+    - {fileID: 21300000, guid: cdbf83c142b0b4796b111800d82d3a7a, type: 3}
+    - {fileID: 21300000, guid: 3561d58469a0544d3b157861140095e4, type: 3}
+    - {fileID: 21300000, guid: 21600cbb215f340ad990499de19adcf1, type: 3}
+    - {fileID: 21300000, guid: 4205a4fadbb9b4a7fb99b1b46873f625, type: 3}
+    - {fileID: 21300000, guid: a64672f1738e243eca032d33fe22c8de, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: cdbf83c142b0b4796b111800d82d3a7a, type: 3}
+  - {fileID: 21300000, guid: a64672f1738e243eca032d33fe22c8de, type: 3}
+  - {fileID: 21300000, guid: 3561d58469a0544d3b157861140095e4, type: 3}
+  - {fileID: 21300000, guid: da943cf85080c4de3a3e59dee2abd93a, type: 3}
+  - {fileID: 21300000, guid: 4205a4fadbb9b4a7fb99b1b46873f625, type: 3}
+  - {fileID: 21300000, guid: 21600cbb215f340ad990499de19adcf1, type: 3}
+  - {fileID: 21300000, guid: d5932cfcc309e4e8598d4d8fdcd87d8d, type: 3}
+  - {fileID: 21300000, guid: b20cb1edf6c574a7488e66139e65eb39, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image 13
+  - image 9
+  - image 14
+  - image 12
+  - image 16
+  - image 15
+  - image 10
+  - image 11
+  m_Tag: 47_attack1_t
+  m_IsVariant: 0

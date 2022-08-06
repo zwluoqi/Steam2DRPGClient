@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15b553e0e02498f940a905377b170af, type: 3}
+  m_Name: skill_config_9_1
+  m_EditorClassIdentifier: 
+  animName: attack
+  skillEffectConfig:
+    duration: 0
+    uri: 
+  skillType: 0
+  duration: 0.2
+  insertStartTime: 0
+  insertEndTime: 0
+  couldMove: 0
+  skillProjectorConfigs:
+  - projectorTime: 0
+    projectorDuration: 2
+    projectorEffectConfig:
+      duration: 0
+      uri: skill/skill_p_0
+    collideEffectConfig:
+      duration: 0
+      uri: 
+    initOffsetBaseSource: 0
+    initOffsetLengthOrRadius: -5
+    initOffsetAngle: 90
+    projectorMoveConfigs:
+    - projectorMoveType: 0
+      moveSpeedOrAngle: 2.5
+      YAsixOffset: 0
+      animationCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 2
+        m_PostInfinity: 2
+        m_RotationOrder: 4
+      rotationAngleSpeed: 30
+      loopSource2Target: 1
+      circleRadius: 2
+    followHero: 0
+    followHeroRotation: 0
+    collideType: 1
+    timeOverType: 0
+  skillMoveConfigs: []
+  searchRadius: 8
+  coolDown: 0
+  spaceHitTimer: 0
+  desc: "\u843D\u96F7"

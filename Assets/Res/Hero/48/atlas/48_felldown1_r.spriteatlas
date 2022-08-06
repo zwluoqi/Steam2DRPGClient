@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 48_felldown1_r
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 9f0fdebc3b21b2a48a07aa2bf56d8c9f, type: 3}
+    - {fileID: 21300000, guid: 82ecd318274bb5741997a114478a5bc3, type: 3}
+    - {fileID: 21300000, guid: e6e519f55470a1c46bbbbde3c465e0b4, type: 3}
+    - {fileID: 21300000, guid: 6684177df43855d49a7df08561632cbb, type: 3}
+    - {fileID: 21300000, guid: 3d880d0d6afd3444ca5083da7385fa50, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e6e519f55470a1c46bbbbde3c465e0b4, type: 3}
+  - {fileID: 21300000, guid: 82ecd318274bb5741997a114478a5bc3, type: 3}
+  - {fileID: 21300000, guid: 9f0fdebc3b21b2a48a07aa2bf56d8c9f, type: 3}
+  - {fileID: 21300000, guid: 3d880d0d6afd3444ca5083da7385fa50, type: 3}
+  - {fileID: 21300000, guid: 6684177df43855d49a7df08561632cbb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image 23
+  - image 22
+  - image 21
+  - image 25
+  - image 24
+  m_Tag: 48_felldown1_r
+  m_IsVariant: 0

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15b553e0e02498f940a905377b170af, type: 3}
+  m_Name: skill_config_paotai_qian
+  m_EditorClassIdentifier: 
+  animName: paotaizidan
+  skillEffectConfig:
+    duration: 0
+    uri: 
+  skillType: 0
+  duration: 0.5
+  insertStartTime: 0.5
+  insertEndTime: 0
+  couldMove: 0
+  skillProjectorConfigs:
+  - projectorTime: 0
+    projectorDuration: 10
+    projectorEffectConfig:
+      duration: 0
+      uri: skill/skill_p_3
+    collideEffectConfig:
+      duration: 0
+      uri: 
+    initOffsetBaseSource: 1
+    initOffsetLengthOrRadius: 1
+    initOffsetAngle: 0
+    projectorMoveConfigs:
+    - projectorMoveType: 0
+      moveSpeedOrAngle: 6
+      YAsixOffset: 0
+      animationCurve:
+        serializedVersion: 2
+        m_Curve: []
+        m_PreInfinity: 0
+        m_PostInfinity: 0
+        m_RotationOrder: 0
+      rotationAngleSpeed: 0
+      loopSource2Target: 0
+      circleRadius: 0
+    followHero: 0
+    followHeroRotation: 0
+    collideType: 0
+    timeOverType: 0
+    skillMoveConfigs:
+    - moveTime: 0
+      duration: 1
+      moveSpeed: 1
+      accSpeedPerSecond: 0
+      accSpeedPerTime: 0
+      rotationAngleSpeed: 0
+      avtiveMove: 0
+      traversal: 0
+  skillMoveConfigs: []
+  searchRadius: 100
+  coolDown: 10
+  skillGroupResetDuration: 1
+  spaceHitTimer: 0
+  desc: "\u5411\u524D\u4E0D\u505C\u5C04\u51FB\u70AE\u53F0"
+  costAttribute: []
+  costAttributePerSecond: []
+  triggerPassiveSkill: {fileID: 0}

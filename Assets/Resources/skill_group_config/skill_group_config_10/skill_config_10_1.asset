@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15b553e0e02498f940a905377b170af, type: 3}
+  m_Name: skill_config_10_1
+  m_EditorClassIdentifier: 
+  animName: attack
+  skillEffectConfig:
+    duration: 0
+    uri: 
+  skillType: 0
+  duration: 0.2
+  insertStartTime: 0
+  insertEndTime: 0
+  couldMove: 0
+  skillProjectorConfigs:
+  - projectorTime: 0
+    projectorDuration: 1
+    projectorEffectConfig:
+      duration: 0
+      uri: skill/skill_p_0
+    collideEffectConfig:
+      duration: 0
+      uri: 
+    initOffsetBaseSource: 1
+    initOffsetLengthOrRadius: 0
+    initOffsetAngle: 0
+    projectorMoveConfigs:
+    - projectorMoveType: 1
+      moveSpeedOrAngle: 8
+      YAsixOffset: 4
+      animationCurve:
+        serializedVersion: 2
+        m_Curve:
+        - serializedVersion: 3
+          time: 0
+          value: 0
+          inSlope: 3.4292755
+          outSlope: 3.4292755
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 0.15559676
+          value: 0.5335842
+          inSlope: 0.2524625
+          outSlope: 0.2524625
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 0.5122585
+          value: -0.5094198
+          inSlope: 1.0150591
+          outSlope: 1.0150591
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 0.7164212
+          value: 0.5020977
+          inSlope: 1.6592684
+          outSlope: 1.6592684
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 1.0203083
+          value: 0.0049591307
+          inSlope: -1.6359321
+          outSlope: -1.6359321
+          tangentMode: 34
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0
+        m_PreInfinity: 2
+        m_PostInfinity: 1
+        m_RotationOrder: 4
+      rotationAngleSpeed: 360
+      loopSource2Target: 1
+      circleRadius: 2
+    followHero: 0
+    followHeroRotation: 0
+    collideType: 3
+    timeOverType: 0
+    skillMoveConfigs: []
+  skillMoveConfigs: []
+  searchRadius: 8
+  coolDown: 8
+  skillGroupResetDuration: 1
+  spaceHitTimer: 0
+  desc: "\u60AC\u505C"
+  costAttribute: []
+  costAttributePerSecond: []
+  triggerPassiveSkill: {fileID: 0}

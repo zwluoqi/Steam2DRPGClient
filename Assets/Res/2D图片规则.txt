@@ -1,0 +1,26 @@
+场景编辑图片：
+会自动设置Pivot为Bottom
+1.如果使用tilemap的图作为厂家布局，放入tiles里面，
+2.如果是使用独立的SpriteRender作为场景的逻辑单元，放入sprites里面，
+以上两种如何区分：没有逻辑的固定场景图放入tiles即可，有逻辑、AI等的放入sprite即可
+
+更新tilemap资源文件，选择菜单栏中TileMap->Create Palettee。即可在tile  Palett界面中找到新的资源。
+不要自己再直接拖拽图片资源到tile Palette中！
+不要自己再直接拖拽图片资源到tile Palette中！
+不要自己再直接拖拽图片资源到tile Palette中！
+
+角色编辑图片：
+会自动设置Pivot为Bottom
+
+
+
+
+
+
+
+
+
+
+
+
+为什么设置Pivot为Bottom，类似3D游戏，所有的基准点以脚底为基本值

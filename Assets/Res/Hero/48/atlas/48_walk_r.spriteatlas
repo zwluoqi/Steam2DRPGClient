@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 48_walk_r
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 5cd32024a3a818a49897b0072e26721f, type: 3}
+    - {fileID: 21300000, guid: facda0e463dd2d64aa5c44374889f11b, type: 3}
+    - {fileID: 21300000, guid: bd01b70394000914b972dd50623e9692, type: 3}
+    - {fileID: 21300000, guid: a521e8556f012a04090598dbd5799c82, type: 3}
+    - {fileID: 21300000, guid: 4a741b94d64484240904085b81e4b700, type: 3}
+    - {fileID: 21300000, guid: af3275697ff80ac4abb630d75eb92a12, type: 3}
+    - {fileID: 21300000, guid: a94035fedc86c4f42918aa0769997f1c, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bd01b70394000914b972dd50623e9692, type: 3}
+  - {fileID: 21300000, guid: 5cd32024a3a818a49897b0072e26721f, type: 3}
+  - {fileID: 21300000, guid: 4a741b94d64484240904085b81e4b700, type: 3}
+  - {fileID: 21300000, guid: facda0e463dd2d64aa5c44374889f11b, type: 3}
+  - {fileID: 21300000, guid: a521e8556f012a04090598dbd5799c82, type: 3}
+  - {fileID: 21300000, guid: af3275697ff80ac4abb630d75eb92a12, type: 3}
+  - {fileID: 21300000, guid: a94035fedc86c4f42918aa0769997f1c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image 24
+  - image 22
+  - image 26
+  - image 23
+  - image 25
+  - image 27
+  - image 28
+  m_Tag: 48_walk_r
+  m_IsVariant: 0

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 47_walk_rd
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: e2c55f92f6581434a83b8a18b06bb9b5, type: 3}
+    - {fileID: 21300000, guid: a5073e0c944d34f2dbea0fd1ec1cce86, type: 3}
+    - {fileID: 21300000, guid: ea604f3244734485e983299edde71f77, type: 3}
+    - {fileID: 21300000, guid: 631fe7bdab93e4ec193308203453a5d9, type: 3}
+    - {fileID: 21300000, guid: 2c6cc3e99bf1247b1a03e174ac2ee5e9, type: 3}
+    - {fileID: 21300000, guid: 8b3eb2dafa4bb4e4eb348470f6dac72c, type: 3}
+    - {fileID: 21300000, guid: 8ec083fa65be14b4f9c4c597aceaebaa, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ea604f3244734485e983299edde71f77, type: 3}
+  - {fileID: 21300000, guid: e2c55f92f6581434a83b8a18b06bb9b5, type: 3}
+  - {fileID: 21300000, guid: 2c6cc3e99bf1247b1a03e174ac2ee5e9, type: 3}
+  - {fileID: 21300000, guid: 8b3eb2dafa4bb4e4eb348470f6dac72c, type: 3}
+  - {fileID: 21300000, guid: 8ec083fa65be14b4f9c4c597aceaebaa, type: 3}
+  - {fileID: 21300000, guid: a5073e0c944d34f2dbea0fd1ec1cce86, type: 3}
+  - {fileID: 21300000, guid: 631fe7bdab93e4ec193308203453a5d9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - image 17
+  - image 15
+  - image 19
+  - image 20
+  - image 21
+  - image 16
+  - image 18
+  m_Tag: 47_walk_rd
+  m_IsVariant: 0

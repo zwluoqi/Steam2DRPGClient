@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a92059e947ee9144d86f7ad5beb0d6f2, type: 3}
+  m_Name: hero_config_monster48_close
+  m_EditorClassIdentifier: 
+  heroName: 48_close
+  heroUri: hero/48
+  color: {r: 0.085810654, g: 0.05958529, b: 0.9716981, a: 1}
+  skillGroupConfigs:
+  - {fileID: 11400000, guid: edbc2ed58bdd845698cb18fe36d07636, type: 2}
+  - {fileID: 11400000, guid: a47362fcfd08a47b79391a3a9e9d2682, type: 2}
+  heroAttributeConfig:
+    maxHP: 10
+    maxMp: 100
+    maxAngle: 100
+    maxNaili: 100
+    curSpeed: 5
+    attributes: []
+  heroBehaviourConfigs:
+  - {fileID: 11400000, guid: 21e5a564b9bbe834c95525134519de45, type: 2}
+  - {fileID: 11400000, guid: 5f0fff5f6459dbc45aa4d9f5e473e1e3, type: 2}
+  - {fileID: 11400000, guid: 7739b70e8fa2110429e8acc354e2a4cd, type: 2}
